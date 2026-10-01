@@ -54,7 +54,7 @@ const Portfolio = () => {
           <div className="w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-zinc-700 shadow-2xl">
             {/* ضفنا تأثير الأبيض والأسود للصورة مع رجوع الألوان في الـ Hover */}
             <img
-              src="/your-photo.jpg"
+              src="/src/assets/MyImg.png"
               alt="Profile"
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
             />
